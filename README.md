@@ -121,8 +121,6 @@ Early in my journey, learning fast, shipping real things, and obsessed with the 
   <img src="https://raw.githubusercontent.com/Salehahmedeus/Salehahmedeus/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-> **Note:** The snake animation needs a small GitHub Action to generate. Create `.github/workflows/snake.yml` in your `Salehahmedeus/Salehahmedeus` repo using [Platane/snk](https://github.com/Platane/snk) — it'll auto-build the SVG and push it to an `output` branch.
-
 ---
 
 ## 💭 Developer Wisdom
